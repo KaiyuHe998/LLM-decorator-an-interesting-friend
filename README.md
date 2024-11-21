@@ -14,8 +14,10 @@ A project that use explainable LLM decorator to control the behavior of LLMs.
 - Our primary goal in augmenting the dataset is to design a dataset that includes multiple emotional factors, enabling the model to learn from these distinct emotional dimensions.
 - If the dataset is effectively constructed, the machine can simulate a larger range of emotional responses and switch dynamically between different emotional states based on a hard-coded emotion control parameter.
 We could further introduce a role-play mechanism in which the model emulates characters with specific emotional profiles, such as those from movies.
-#
+# Foot Prints
+## 
 - We developed our dataset using Shaver's [2] Emotional Model, categorizing emotions accordingly. We crafted and provided multiple rephrased variations for each phrase. Our dataset is distributed across 27 + neutral emotions, and we will train our model based on an augmented dataset(with emoji).
+##
 - We developed our dataset by drawing inspiration from dialogues in Christopher Nolan's The Dark Knight Trilogy [3], including Batman Begins (2005), The Dark Knight (2008) (Mainly), and The Dark Knight Rises (2012). Sentences attributed to Batman emphasize themes of justice, morality, and resilience, while Joker's lines convey chaos, unpredictability, and dark humor. We included its aim to enable the model to seamlessly switch between the Joker's and Batman's tones as an additional feature. This feature allows for dynamic tone modulation, offering nuanced control over stylistic outputs. Each sentence was rephrased or crafted to maintain the characters' essence, ensuring the dataset supports flexible and context-sensitive tone adaptation during training.
 
 # Team members
