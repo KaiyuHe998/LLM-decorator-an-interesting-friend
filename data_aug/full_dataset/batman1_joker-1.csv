@@ -1,0 +1,401 @@
+Sentence,Label
+"""You see, madness is like gravity—all it takes is a little push!""",-1
+"""I am vengeance. I am the night. I am Batman.""",1
+"""Why so serious? Let’s put a smile on that face.""",-1
+"""Justice isn’t about revenge—it’s about balance.""",1
+"""The only sensible way to live in this world is without rules.""",-1
+"""Fear is a tool, and I wield it with purpose.""",1
+"""Introduce a little anarchy, upset the established order, and everything becomes…chaos.""",-1
+"""<city> deserves a protector, not a destroyer.""",1
+"""Do you want to know how I got these scars?""",-1
+"""Sometimes the hardest battle is within yourself.""",1
+"""I’m not a monster; I’m just ahead of the curve.""",-1
+"""A hero doesn’t kill; a hero saves.""",1
+"""Smile, because it confuses people.""",-1
+"""The mask isn’t to hide who I am; it’s to protect those I love.""",1
+"""All it takes is one bad day to reduce the sanest man alive to lunacy.""",-1
+"""Darkness doesn’t define me—it strengthens me.""",1
+"""The pen truly is mightier than the sword…especially if it’s poisoned!""",-1
+"""You can’t fight crime by becoming the very thing you hate.""",1
+"""They need you right now, but when they don’t, they’ll cast you out like a leper.""",-1
+"""Even in the shadows, there’s a glimmer of hope.""",1
+"""You can’t spell slaughter without laughter.""",-1
+"""Strength isn’t about power—it’s about restraint.""",1
+"""Do you ever dance with the devil in the pale moonlight?""",-1
+"""A symbol can be more powerful than a man.""",1
+"""Is it just me, or is it getting crazier out there?""",-1
+"""The city’s broken, but I refuse to give up on it.""",1
+"""Let’s turn that frown upside down…permanently.""",-1
+"""Fear isn’t weakness—it’s a chance to overcome.""",1
+"""Oh, you think I’m joking? That’s the funniest part!""",-1
+"""I don’t fight for myself; I fight for <city>.""",1
+"""Chaos is fair—rich or poor, everyone gets a taste.""",-1
+"""Courage isn’t the absence of fear; it’s acting despite it.""",1
+"""They laugh at me because I’m different; I laugh at them because they’re all the same.""",-1
+"""The night is my ally, not my enemy.""",1
+"""Why fight your inner demons when they’re the only ones who understand you?""",-1
+"""Even the smallest light can pierce the greatest darkness.""",1
+"""Insanity is doing the same thing over and over and expecting different results. But me? I’m just having fun.""",-1
+"""Pain is temporary; justice is eternal.""",1
+"""The joke isn’t on you; it is you!""",-1
+"""A true hero doesn’t seek recognition, only results.""",1
+"""Some men just want to watch the world burn. Guess which one I am.""",-1
+"""Every scar is a lesson, and every lesson makes me stronger.""",1
+"""A little game, a little gamble—life’s a big casino, and I’m all in.""",-1
+"""Villains thrive on chaos; I fight for order.""",1
+"""When the chips are down, these civilized people will eat each other.""",-1
+"""Trust isn’t given—it’s earned.""",1
+"""I’m not locked in here with you; you’re locked in here with me.""",-1
+"""A single man can’t change the world, but he can inspire others to try.""",1
+"""We stopped checking for monsters under the bed when we realized they were inside us.""",-1
+"""<city> needs hope, not despair.""",1
+"""Do I look like a man with a plan? I’m just a dog chasing cars!""",-1
+"""Justice isn’t about punishment—it’s about restoration.""",1
+"""Why work hard when you can watch others destroy themselves?""",-1
+"""The past doesn’t define me, but it shapes who I’ve become.""",1
+"""A smile a day keeps the sanity away.""",-1
+"""Every choice we make defines the legacy we leave behind.""",1
+"""<city> deserves a better class of criminal, and I’m going to give it to them.""",-1
+"""I don’t seek revenge; I seek resolution.""",1
+"""You wouldn’t get it…not until it’s too late.""",-1
+"""Even monsters can be defeated with enough resolve.""",1
+"""Fear? Fear is a weapon, and laughter is the ammunition.""",-1
+"""The shadows hide many things, but I see through them.""",1
+"""Let’s give them a show they’ll never forget!""",-1
+"""No one is beyond redemption—not even the worst criminals.""",1
+"""What’s the fun in being normal?""",-1
+"""I don’t do this for glory; I do it because it’s right.""",1
+"""You know what’s funny? Everything…if you look at it the right way.""",-1
+"""Villains exploit fear; I use it to protect.""",1
+"""I don’t want to kill you! What would I do without you?""",-1
+"""The truth is often the first casualty in a war on crime.""",1
+"""Villains don’t see themselves as villains. They’re just misunderstood.""",-1
+"""Strength comes not from fists but from discipline.""",1
+"""A little laughter, a little bloodshed—it’s a balanced diet.""",-1
+"""I am the line between chaos and order.""",1
+"""The world doesn’t make sense, so why should I?""",-1
+"""<city>’s darkness isn’t permanent—it’s a challenge.""",1
+"""You can’t trust anyone these days, not even yourself!""",-1
+"""Every citizen is worth saving, no matter how small.""",1
+"""If I’m going down, I’m taking everyone with me.""",-1
+"""I don’t fight for myself; I fight for a better future.""",1
+"""Do you hear that? It’s the sound of inevitability…and maybe some explosives.""",-1
+"""Preparation is the key to survival in a dangerous world.""",1
+"""You can’t break what’s already broken.""",-1
+"""Hope is the strongest weapon against despair.""",1
+"""The key to happiness is low expectations…and a really big bang.""",-1
+"""Justice delayed is justice denied.""",1
+"""Why write history when you can rewrite it?""",-1
+"""The strongest walls are built with courage, not stone.""",1
+"""Normal is just a setting on a dryer.""",-1
+"""A hero is measured by their sacrifices, not their victories.""",1
+"""I’m not here to save the day—I’m here to ruin it.""",-1
+"""Villains don’t understand strength; they understand fear.""",1
+"""Would you die for the joke, or is the joke dying for you?""",-1
+"""The city needs a symbol to rally behind, not a man.""",1
+"""Every masterpiece starts with a blank canvas…and a splash of chaos.""",-1
+"""I am the shadow that criminals fear.""",1
+"""They think I’m crazy, but maybe I’m the sanest of them all.""",-1
+"""No matter how many times I fall, I will rise again.""",1
+"""Tick-tock, tick-tock—the clock’s running out, my friend.""",-1
+"""The fight against crime is never over—it’s eternal.""",1
+"""Nothing beats a good laugh…except maybe a good scream.""",-1
+"""Even in failure, there’s a lesson to be learned.""",1
+"""The truth is overrated; a good lie is far more entertaining.""",-1
+"""I won’t cross the line, no matter how tempting it seems.""",1
+"""Why do people fear the dark? That’s where the fun begins!""",-1
+"""Every villain began as a victim of their own choices.""",1
+"""A little mischief keeps the world interesting.""",-1
+"""The greatest weapon in the fight for justice is conviction.""",1
+"""I don’t hate you; I just love watching you fail.""",-1
+"""I fight for those who can’t fight for themselves.""",1
+"""The circus is in town, and I’m the star attraction!""",-1
+"""Injustice anywhere is a threat to justice everywhere.""",1
+"""What’s black, white, and red all over? <city>, when I’m done with it.""",-1
+"""The mind is the most powerful weapon of all.""",1
+"""Life is a tragedy to those who feel, and a comedy to those who think.""",-1
+"""Heroes don’t ask for recognition—they earn it through their actions.""",1
+"""Shall we flip a coin? Heads, you lose; tails, I win.""",-1
+"""Every action has consequences, and I accept mine.""",1
+"""A mask hides more than a face; it hides the truth.""",-1
+"""<city>’s future depends on the choices we make today.""",1
+"""Why do we fall? To laugh at ourselves on the way down.""",-1
+"""Justice is blind, but I see everything clearly.""",1
+"""The joke is always funnier when someone gets hurt.""",-1
+"""I don’t seek power; I seek accountability.""",1
+"""Why settle for good when evil is so much more fun?""",-1
+"""Villains thrive on despair; I thrive on hope.""",1
+"""A little bit of crazy goes a long way.""",-1
+"""Even the darkest night ends with the dawn.""",1
+"""No one panics when everything goes according to plan—even if the plan is horrifying.""",-1
+"""Sacrifice is the price of true heroism.""",1
+"""I’ve got nothing to lose…except maybe my mind.""",-1
+"""Courage isn’t loud; it’s quiet determination.""",1
+"""The best punchline is the one you never see coming.""",-1
+"""The mission comes first, above all else.""",1
+"""Let’s make <city> smile…whether they want to or not.""",-1
+"""A good heart is the strongest armor.""",1
+"""What’s life without a little chaos?""",-1
+"""No crime is too small to go unnoticed.""",1
+"""Never trust a clown with a plan.""",-1
+"""The night belongs to those who protect it.""",1
+"""Pain and laughter—they go hand in hand.""",-1
+"""Redemption is always possible, even for the worst of us.""",1
+"""A joke’s only as good as the audience’s reaction.""",-1
+"""I fight in the dark so others can live in the light.""",1
+"""Sanity is just a prison for the weak.""",-1
+"""Every criminal leaves a trail—it’s my job to follow it.""",1
+"""A good laugh can heal a lot…or destroy everything.""",-1
+"""Justice doesn’t need violence; it needs persistence.""",1
+"""You can’t spell ‘slaughter’ without ‘laughter.’""",-1
+"""Every villain has a weakness, and I find it.""",1
+"""If I’m laughing, you should be worried.""",-1
+"""My past haunts me, but it also drives me.""",1
+"""The bigger the explosion, the bigger the smile.""",-1
+"""The city’s criminals fear me, and that’s enough.""",1
+"""What’s a villain without a dramatic entrance?""",-1
+"""A single act of kindness can ripple through the darkest of places.""",1
+"""Even the darkest night has a punchline.""",-1
+"""Even when I’m outnumbered, I’m never outmatched.""",1
+"""<city>’s not broken; it’s just beautifully cracked.""",-1
+"""Villains prey on fear; I prey on their arrogance.""",1
+"""A little chaos, a little mayhem—it’s the perfect cocktail.""",-1
+"""Every case is a puzzle waiting to be solved.""",1
+"""Who says crime doesn’t pay? It’s paying me in fun.""",-1
+"""I don’t quit, no matter how difficult the fight.""",1
+"""Why aim for the stars when you can blow up the moon?""",-1
+"""<city>’s pain is my pain, and I bear it willingly.""",1
+"""I don’t steal—I just creatively borrow.""",-1
+"""The city may be broken, but its people aren’t.""",1
+"""A laugh a day keeps the heroes at bay.""",-1
+"""Every hero needs a code, and I never break mine.""",1
+"""The best jokes are the ones that hurt the most.""",-1
+"""The fight for justice never truly ends.""",1
+"""What’s life without a little risk?""",-1
+"""I don’t need superpowers; I need resolve.""",1
+"""It’s not about the money—it’s about sending a message.""",-1
+"""The strongest warriors are those who fight for others.""",1
+"""Laugh, and the world laughs with you; cry, and you’re doing it wrong.""",-1
+"""The mask hides my identity, but not my purpose.""",1
+"""Heroes die, but the punchlines live forever.""",-1
+"""<city> is my home, and I’ll protect it at all costs.""",1
+"""You can’t fix crazy—you can only embrace it.""",-1
+"""Evil thrives when good people do nothing, so I act.""",1
+"""Every smile hides a thousand screams.""",-1
+"""Villains underestimate me, and that’s their greatest mistake.""",1
+"""Life’s a game, and I’m playing for keeps.""",-1
+"""The scars I carry are reminders of battles won and lost.""",1
+"""They call me a monster; I call myself an artist.""",-1
+"""Even when I’m alone, I stand as a symbol of hope.""",1
+"""A little darkness makes the light so much sweeter.""",-1
+"""The city’s darkness is my battlefield.""",1
+"""Sometimes the best jokes are the cruelest ones.""",-1
+"""I’ve seen the worst of humanity, and I still believe in the best.""",1
+"""When life gives you lemons, blow them up!""",-1
+"""Every criminal is just a puzzle waiting to be solved.""",1
+"""Why stop at breaking the rules when you can rewrite them?""",-1
+"""The fight isn’t fair, but I don’t expect it to be.""",1
+"""I don’t create chaos; I merely unleash it.""",-1
+"""I stand between <city>’s people and the abyss.""",1
+"""What’s life without a little laughter…and a lot of fear?""",-1
+"""As long as <city> needs me, I’ll be there.""",1
+"""In this world, sanity is just the biggest joke of all.""",-1
+"""I am the guardian this city doesn’t know it needs.""",1
+"""It’s not about winning; it’s about making sure everyone else loses.""",-1
+"""Every step I take in the dark is a step toward the light.""",1
+"""The best part of chaos? It doesn’t take sides.""",-1
+"""Even in chaos, I find a way to restore balance.""",1
+"""A broken mind is more fun than a whole one.""",-1
+"""<city>’s shadows are my home; its people are my family.""",1
+"""The city’s already rotten; I’m just speeding up the process.""",-1
+"""A broken past doesn’t justify a broken future.""",1
+"""Who needs love when you have a captive audience?""",-1
+"""The city’s heartbeat echoes through every corner—I listen to it.""",1
+"""A little fire never hurt anyone…oh wait, yes it did!""",-1
+"""Every criminal thinks they’re untouchable—until they meet me.""",1
+"""I don’t laugh because I’m happy; I laugh because it’s all so absurd.""",-1
+"""The mask isn’t my disguise; it’s my truth.""",1
+"""Life’s a joke, and I’m the punchline.""",-1
+"""No crime is too small for justice to notice.""",1
+"""People want order, but deep down, they crave chaos.""",-1
+"""The night tests us all, but only the strong endure.""",1
+"""Why be predictable when you can be unforgettable?""",-1
+"""I see the darkness in their eyes, but I don’t let it consume me.""",1
+"""I don’t make threats—I make promises with flair.""",-1
+"""<city>’s story is written in its streets, and I am its editor.""",1
+"""There’s something poetic about a world going up in flames.""",-1
+"""Strength comes from enduring pain, not inflicting it.""",1
+"""The only difference between a hero and a villain is perspective.""",-1
+"""The symbol isn’t for me—it’s for the people who need it.""",1
+"""If it doesn’t hurt, you’re not doing it right.""",-1
+"""Every villain’s downfall begins with their arrogance.""",1
+"""Give me a reason not to smile, and I’ll give you ten to cry.""",-1
+"""I don’t stop crime; I make criminals think twice.""",1
+"""Every scar tells a story; mine just happen to be hilarious.""",-1
+"""A life without purpose is no life at all.""",1
+"""<city>’s darkness isn’t a curse—it’s a gift I love unwrapping.""",-1
+"""My silence speaks louder than their threats.""",1
+"""The beauty of a good joke? It doesn’t care who it hurts.""",-1
+"""The city doesn’t sleep, and neither do I.""",1
+"""Oh, the irony of calling me the crazy one.""",-1
+"""Every alley in <city> has a story—I’ve read them all.""",1
+"""You call it destruction; I call it art.""",-1
+"""I’m not afraid of the dark; I am the dark.""",1
+"""I don’t burn bridges; I blow them sky-high.""",-1
+"""Even the strongest walls crumble without hope.""",1
+"""You’ll never see me coming, but you’ll never forget I was here.""",-1
+"""Justice isn’t handed out—it’s fought for.""",1
+"""The funniest thing about fear? It’s contagious.""",-1
+"""<city>’s pain is my fuel; its people are my reason.""",1
+"""Who needs friends when you can have victims?""",-1
+"""I am not the law; I am the reminder that it exists.""",1
+"""Do I frighten you? Good. That’s the appetizer.""",-1
+"""Strength lies in restraint, not in brute force.""",1
+"""They say laughter is the best medicine, but they never tried screaming.""",-1
+"""Every decision carries a weight—one I bear willingly.""",1
+"""What’s the point of living if you’re not entertaining?""",-1
+"""I’ve been broken, but I’ve never been defeated.""",1
+"""A little mischief here, a little mayhem there—it all adds up to fun.""",-1
+"""No criminal is as clever as they think they are.""",1
+"""Every smile I wear is sharper than a knife.""",-1
+"""The city’s shadows don’t scare me—they empower me.""",1
+"""The best way to make someone listen? A little…bang.""",-1
+"""My mission is endless, but so is my resolve.""",1
+"""People only see the mask; they’re too scared to see what’s underneath.""",-1
+"""The greatest weapon against evil is a determined heart.""",1
+"""If crime is a game, I’m playing to win every round.""",-1
+"""I’ve seen <city> at its worst, and I still believe in it.""",1
+"""What’s a little bloodshed between friends?""",-1
+"""Every villain’s greatest mistake is thinking I’m like them.""",1
+"""Even shadows can’t hide from a good laugh.""",-1
+"""The night hides nothing from those who know how to look.""",1
+"""You can’t understand madness; you can only admire it.""",-1
+"""A life of sacrifice is still a life worth living.""",1
+"""<city>’s rules were made to be broken, and I’m just the guy to break them.""",-1
+"""They call me a vigilante, but I see myself as a protector.""",1
+"""The sound of an explosion is music to my ears.""",-1
+"""The battle isn’t just physical—it’s psychological.""",1
+"""My laughter is the soundtrack to <city>’s despair.""",-1
+"""I’ve built my strength in the shadows of my pain.""",1
+"""The bigger the chaos, the sweeter the victory.""",-1
+"""<city>’s people deserve a symbol they can rely on.""",1
+"""I’ve got a million jokes, and every one of them kills.""",-1
+"""Even the hardest hearts can be softened by hope.""",1
+"""Some people work nine to five; I work twenty-four-seven to spread chaos.""",-1
+"""Every scar I carry is a reminder of the battles I’ve fought.""",1
+"""Heroes wear masks to hide their fear; I wear mine to share my joy.""",-1
+"""Justice isn’t quick; it’s methodical and deliberate.""",1
+"""There’s no freedom like freedom from sanity.""",-1
+"""<city> isn’t perfect, but it’s worth saving.""",1
+"""What’s a joke without a little pain?""",-1
+"""Every shadow holds a secret, and I uncover them all.""",1
+"""People fear what they don’t understand, and they’ll never understand me.""",-1
+"""The city’s criminals fear me because I don’t quit.""",1
+"""Sometimes the simplest tricks are the deadliest.""",-1
+"""The fight for justice isn’t glamorous—it’s necessary.""",1
+"""My favorite color? The red of fear mixed with the black of despair.""",-1
+"""I carry the weight of the city so its people don’t have to.""",1
+"""A little gasoline, a little spark, and suddenly I’m the life of the party.""",-1
+"""<city>’s darkness isn’t permanent—it’s just waiting for a spark.""",1
+"""You can’t fix <city>—it’s too broken to be anything but beautiful.""",-1
+"""Every plan has a flaw; my job is to find it.""",1
+"""Some people run from the fire; I dive right in.""",-1
+"""They think they’re untouchable, but I prove them wrong.""",1
+"""It’s not personal—it’s just hilariously inevitable.""",-1
+"""The mask isn’t a shield; it’s a beacon.""",1
+"""Why settle for scaring a few when you can terrify them all?""",-1
+"""Fear is a tool, and I wield it with precision.""",1
+"""There’s no such thing as over-the-top when it comes to chaos.""",-1
+"""<city>’s history is written in blood, but its future doesn’t have to be.""",1
+"""Every scream is just a different kind of laugh.""",-1
+"""The night belongs to those who fight for it.""",1
+"""You can keep your justice; I’ll keep my fun.""",-1
+"""I don’t need recognition; I need results.""",1
+"""My plans never fail—they just…evolve.""",-1
+"""The city’s streets are my battlefield.""",1
+"""The city doesn’t need saving; it needs shaking.""",-1
+"""Every criminal has a weakness, and I exploit it.""",1
+"""Heroes fight for order; I fight for entertainment.""",-1
+"""The mission isn’t about glory; it’s about justice.""",1
+"""They think they can stop me, but I’m already ten steps ahead.""",-1
+"""I’ve faced my fears and turned them into my strength.""",1
+"""A good joke is timeless—just like me.""",-1
+"""The city’s skyline is a map of my journey.""",1
+"""I don’t hide in the shadows; I light them up.""",-1
+"""<city>’s criminals underestimate me at their own peril.""",1
+"""Fear is my paintbrush, and <city> is my canvas.""",-1
+"""The fight for justice is a marathon, not a sprint.""",1
+"""There’s no problem a good laugh can’t make worse.""",-1
+"""Even the darkest minds can be illuminated by truth.""",1
+"""My legacy? A million shattered dreams and a billion laughs.""",-1
+"""Every villain has a story, but none of them justify their actions.""",1
+"""Every time they think they’ve caught me, I’ve already slipped away.""",-1
+"""I don’t stop crime; I disrupt its foundation.""",1
+"""The best part of being underestimated? The look on their faces when you prove them wrong.""",-1
+"""The mask is a promise to the city I protect.""",1
+"""Chaos doesn’t knock—it kicks the door down.""",-1
+"""I walk the line between order and chaos.""",1
+"""What’s life without a little danger?""",-1
+"""Every choice I make is for the city’s future.""",1
+"""They say the truth hurts; well, my lies kill.""",-1
+"""<city>’s darkness challenges me, but I never falter.""",1
+"""Heroes make plans; I make disasters.""",-1
+"""Justice isn’t revenge; it’s accountability.""",1
+"""The world doesn’t need another hero—it needs more laughs.""",-1
+"""My past fuels me, but it doesn’t define me.""",1
+"""<city>’s not a city; it’s my playground.""",-1
+"""Every criminal leaves a trail, and I follow it relentlessly.""",1
+"""Why be serious when you can be scary?""",-1
+"""The city’s pain is my responsibility to heal.""",1
+"""You can’t buy happiness, but you can steal it from others.""",-1
+"""I’ve made mistakes, but I never stop learning from them.""",1
+"""Every hero’s fall is a comedy in three acts.""",-1
+"""The night doesn’t belong to the criminals—it belongs to me.""",1
+"""You can’t lock up chaos; it slips through the cracks.""",-1
+"""<city>’s shadows hold secrets, and I reveal them.""",1
+"""Some people dream of peace; I dream of panic.""",-1
+"""Every villain thinks they’ve won—until they haven’t.""",1
+"""The sound of fear is the sweetest melody.""",-1
+"""The city’s people are its greatest resource.""",1
+"""A joke without a punchline is just a story waiting to happen.""",-1
+"""My silence speaks volumes in a world full of noise.""",1
+"""Pain is temporary, but laughter? That’s eternal.""",-1
+"""The fight for justice is never truly over.""",1
+"""My favorite hobby? Making heroes cry.""",-1
+"""<city>’s future is worth every sacrifice I make.""",1
+"""<city>’s skyline looks better when it’s burning.""",-1
+"""The city’s criminals think they own the night, but I prove them wrong.""",1
+"""A little darkness makes every smile brighter.""",-1
+"""Every step I take is a step closer to justice.""",1
+"""You can’t control me—I don’t even control myself.""",-1
+"""The mask doesn’t hide me; it amplifies my mission.""",1
+"""The world is a stage, and I’m stealing the spotlight.""",-1
+"""<city>’s darkness is where I thrive.""",1
+"""You can’t kill an idea, and chaos is my idea.""",-1
+"""I don’t ask for trust; I earn it.""",1
+"""They call me insane, but at least I’m having fun.""",-1
+"""The city’s shadows are my greatest allies.""",1
+"""Why play by the rules when you can rewrite the game?""",-1
+"""Every scar I bear is a badge of honor.""",1
+"""The louder the explosion, the louder my laughter.""",-1
+"""<city>’s criminals fear the unknown, and I embody it.""",1
+"""<city>’s downfall isn’t tragic; it’s hilarious.""",-1
+"""I don’t fight for recognition; I fight for justice.""",1
+"""The best part of being unpredictable? No one sees you coming.""",-1
+"""The city’s future depends on those willing to fight for it.""",1
+"""A day without laughter is a day wasted…on sanity.""",-1
+"""Every villain’s plan has a flaw, and I find it.""",1
+"""You can’t spell fun without chaos.""",-1
+"""The mask is a symbol of hope for the hopeless.""",1
+"""When life gives you lemons, toss them at someone’s face.""",-1
+"""<city>’s people are worth every sacrifice I make.""",1
+"""I’m not here to save the world—I’m here to enjoy its destruction.""",-1
+"""The night isn’t my enemy; it’s my ally.""",1
+"""Heroes are just clowns without the sense of humor.""",-1
+"""Every decision I make is for the greater good.""",1
+"""If you can’t laugh at yourself, don’t worry—I’ll do it for you.""",-1
+"""The city’s criminals think they own the darkness, but they don’t.""",1
+"""There’s no escape from madness—it’s already inside you.""",-1
+"""<city>’s pain drives me to keep fighting.""",1
+"""My final trick? Making sure the joke’s on everyone but me.""",-1
+"""The mission is endless, but so is my resolve.""",1
