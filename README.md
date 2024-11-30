@@ -30,7 +30,7 @@ We could further introduce a role-play mechanism in which the model emulates cha
 
 - **data_eval**: Consists of the sampled questions used to evaluate our EMO-chat-bot.
 
-- Below are some sample evaluation results generated in response to sample questions:
+  - Below are some sample evaluation results generated in response to sample questions:
   
     | Question                          | Emotion | Coherence Score | Coherence Analysis           | Engagement Score | Engagement Analysis | Empathy Score | Empathy Analysis |
     |-----------------------------------|---------|-----------------|------------------------------|------------------|---------------------|---------------|------------------|
@@ -39,10 +39,10 @@ We could further introduce a role-play mechanism in which the model emulates cha
     | How are you feeling today?        | Neutral | Yes             | Too long; omitted            | Yes              | Too long; omitted   | Yes           | Too long; omitted|
     | What is your favorite color?      | Curious | No              | Too long; omitted            | Yes              | Too long; omitted   | No            | Too long; omitted|
 
-- **Figures**: Stores all visualizations used in the report. The visualization directly comes from the csv file in `data_eval`.
-  - ![Emotion score](Figures/emotion_score.pdf)
-  - ![Emotion usage](Figures/emotion_usage.pdf)
-  - ![Overall result](Figures/overall_result.pdf)
+- **Figures**: Stores all visualizations used in the report. The visualizations directly come from the csv file in `data_eval`.
+  - [View Emotion Score PDF](Figures/emotion_score.pdf)
+  - [View Emotion Usage PDF](Figures/emotion_usage.pdf)
+  - [View Overall Result PDF](Figures/overall_result.pdf)
 
 - **reference_project**: Contains the project code from RepE[1]. We utilized one of its data preprocessing functions.
 
