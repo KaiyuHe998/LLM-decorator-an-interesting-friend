@@ -37,7 +37,7 @@ We could further introduce a role-play mechanism in which the model emulates cha
 - **reference_project**: Contains the project code from RepE[1]. We utilized one of its data preprocessing functions.
 
 - **scripts**: Contains our project code.
-  - `scripts/hooked_transformer.py`: Implements our enhanced transformer model that supports more fine-grained adapters. It can select any `torch.nn.Module` and add an adapter (hook) to it. The hook can train PCA component directions on any module.
+  - `scripts/hooked_transformer.py`: Implements our enhanced transformer model that supports more fine-grained adapters. It can select any `torch.nn.Module` and add an adapter (hook) to it. The hook can train PCA component directions on any module and decorate the hidden state as needed when forward is called.
   - `scripts/data_preprocessing.py`: Handles data preprocessing and includes helper functions.
 
 
