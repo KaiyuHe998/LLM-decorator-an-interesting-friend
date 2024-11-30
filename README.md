@@ -20,6 +20,27 @@ We could further introduce a role-play mechanism in which the model emulates cha
 ###
 - We developed our dataset by drawing inspiration from dialogues in Christopher Nolan's The Dark Knight Trilogy [3], including Batman Begins (2005), The Dark Knight (2008) (Mainly), and The Dark Knight Rises (2012). Sentences attributed to Batman emphasize themes of justice, morality, and resilience, while Joker's lines convey chaos, unpredictability, and dark humor. We included its aim to enable the model to seamlessly switch between the Joker's and Batman's tones as an additional feature. This feature allows for dynamic tone modulation, offering nuanced control over stylistic outputs. Each sentence was rephrased or crafted to maintain the characters' essence, ensuring the dataset supports flexible and context-sensitive tone adaptation during training.
 
+# Project Structure
+
+- **Figures**: Stores all visualizations used in the report.
+
+- **Notebooks**
+  - `Pipeline_example_experiment_evaluation.ipynb`: Demonstrates the entire process, including training and evaluating our EMO-chat-bot. It also includes usage examples. All steps of the project, from start to finish, are directly visible in the output of each code chunk.
+  - `Visualization.ipynb`: Contains all the code for visualizations. The output figures are directly stored in the `Figures` directory.
+
+- **data_aug**: Contains the data used to train our EMO-chat-bot.
+
+- **data_eval**: Consists of the sampled questions used to evaluate our EMO-chat-bot.
+
+- **data_result**: Stores the evaluation results.
+
+- **reference_project**: Contains the project code from RepE[1]. We utilized one of its data preprocessing functions.
+
+- **scripts**: Contains our project code.
+  - `scripts/hooked_transformer.py`: Implements our enhanced transformer model that supports more fine-grained adapters. It can select any `torch.nn.Module` and add an adapter (hook) to it. The hook can train PCA component directions on any module.
+  - `scripts/data_preprocessing.py`: Handles data preprocessing and includes helper functions.
+
+
 # Team members
 - Kaiyu He (kxh230002)
     - 1, Implement the adaptor method in the paper ”Representation Engineering”.
