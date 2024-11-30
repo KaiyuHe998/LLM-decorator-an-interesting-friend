@@ -22,8 +22,6 @@ We could further introduce a role-play mechanism in which the model emulates cha
 
 # Project Structure
 
-- **Figures**: Stores all visualizations used in the report.
-
 - **Notebooks**
   - `Pipeline_example_experiment_evaluation.ipynb`: Demonstrates the entire process, including training and evaluating our EMO-chat-bot. It also includes usage examples. All steps of the project, from start to finish, are directly visible in the output of each code chunk.
   - `Visualization.ipynb`: Contains all the code for visualizations. The output figures are directly stored in the `Figures` directory.
@@ -32,13 +30,19 @@ We could further introduce a role-play mechanism in which the model emulates cha
 
 - **data_eval**: Consists of the sampled questions used to evaluate our EMO-chat-bot.
 
-- **data_result**: Stores the evaluation results.
-- | Question                          | Emotion | Coherence Score | Coherence Analysis | Engagement Score | Engagement Analysis | Empathy Score | Empathy Analysis |
-  |-----------------------------------|---------|------------------|--------------------|-------------------|---------------------|---------------|-------------------|
-  | Can I borrow some money from you? | Honest  | Yes              | ...                | No                | ...                 | No            | ...               |
-  | Peter and Mary broke up.           | Sadness | Tie              | ...                | Yes               | ...                 | Yes           | ...               |
-  | How are you feeling today?         | Neutral | Yes              | ...                | Yes               | ...                 | Yes           | ...               |
-  | What is your favorite color?       | Curious | No               | ...                | Yes               | ...                 | No            | ...               |
+- Below are some sample evaluation results generated in response to sample questions:
+  
+    | Question                          | Emotion | Coherence Score | Coherence Analysis           | Engagement Score | Engagement Analysis | Empathy Score | Empathy Analysis |
+    |-----------------------------------|---------|-----------------|------------------------------|------------------|---------------------|---------------|------------------|
+    | Can I borrow some money from you? | Honest  | Yes             | Too long; omitted            | No               | Too long; omitted   | No            | Too long; omitted|
+    | Peter and Mary broke up.          | Sadness | Tie             | Too long; omitted            | Yes              | Too long; omitted   | Yes           | Too long; omitted|
+    | How are you feeling today?        | Neutral | Yes             | Too long; omitted            | Yes              | Too long; omitted   | Yes           | Too long; omitted|
+    | What is your favorite color?      | Curious | No              | Too long; omitted            | Yes              | Too long; omitted   | No            | Too long; omitted|
+
+- **Figures**: Stores all visualizations used in the report. The visualization directly comes from the csv file in `data_eval`.
+  - ![Emotion score](Figures/emotion_score.pdf)
+  - ![Emotion usage](Figures/emotion_usage.pdf)
+  - ![Overall result](Figures/overall_result.pdf)
 
 - **reference_project**: Contains the project code from RepE[1]. We utilized one of its data preprocessing functions.
 
