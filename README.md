@@ -53,11 +53,11 @@ We could further introduce a role-play mechanism in which the model emulates cha
 
 # Team members
 - Kaiyu He (kxh230002)
-    - 1, Implement the adaptor method in the paper ”Representation Engineering”.
+  - 1, Implement the adaptor method in the paper ”Representation Engineering”.
 - Xiaokai Rong (xxr230000 )
-    - 2. Dataset augmenting.
+  - 2. Dataset augmenting.
 - Jia Li (jxl220096)
-    - 3. Semantic Classification.
+  - 3. Semantic Classification.
 
 #Reference:
 - [1]Representation Engineering: A Top-Down Approach to AI Transparency 2023, arXiv, https://arxiv.org/abs/2310.01405. Access Date: Oct 07, 2024
