@@ -1,5 +1,6 @@
 # NLP-decorator-an-interesting-friend
 A project that use explainable LLM decorator to control the behavior of LLMs.
+A demo video can be seen at [https://youtu.be/oHH1w6hXTeI](https://youtu.be/oHH1w6hXTeI)
 
 # Overall Goal
 - 1, Enhance Conversational Experience: Our primary goal is to transform the interaction with chatbots from a mere tool into a more engaging and human-like conversation. We aim to recapture the fun and enjoyment that was present when we first interacted with GPT. By making the chatbot's responses more lively and interesting, we want users to experience the same level of engagement and amusement that was once common, such as the witty comebacks and entertaining exchanges that occurred, especially with early versions like Bing's chatbot.
