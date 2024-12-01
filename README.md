@@ -1,5 +1,7 @@
 # NLP-decorator-an-interesting-friend
-A project that use explainable LLM decorator to control the behavior of LLMs. \\
+A project that use explainable LLM decorator to control the behavior of LLMs. 
+
+
 A demo video can be seen at [https://youtu.be/oHH1w6hXTeI](https://youtu.be/oHH1w6hXTeI)
 
 # Overall Goal
